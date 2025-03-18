@@ -1,4 +1,3 @@
-# 📧 Email Automation with Google Sheets & Gmail  
 
 This project automates email campaigns using **Google Sheets, Gmail, and Google Apps Script**, helping users send, track, and manage emails efficiently.  
 
@@ -63,3 +62,12 @@ This project automates email campaigns using **Google Sheets, Gmail, and Google 
 2. Update `Code.gs` with your tracking pixel URL:  
    ```js
    var trackingURL = "http://localhost:8888/email-tracking/track.php?email=";//Replace with your actual server URL 
+
+
+
+#OUTPUT
+<img width="1694" alt="Excel" src="https://github.com/user-attachments/assets/83e1e09c-d9e2-4228-a01b-2e0fd751df55" />
+
+<img width="1688" alt="Dashboard" src="https://github.com/user-attachments/assets/df47731c-a3a9-4436-8391-666c391ecdaa" />
+
+
