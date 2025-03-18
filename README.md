@@ -62,4 +62,4 @@ This project automates email campaigns using **Google Sheets, Gmail, and Google 
 1. Upload `track.php` to your server.  
 2. Update `Code.gs` with your tracking pixel URL:  
    ```js
-   var trackingURL = "https://yourserver.com/track.php?email=";
+   var trackingURL = "http://localhost:8888/email-tracking/track.php?email=";//Replace with your actual server URL 
