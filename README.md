@@ -1,4 +1,4 @@
-
+# 📧 Email Automation with Google Sheets & Gmail  
 This project automates email campaigns using **Google Sheets, Gmail, and Google Apps Script**, helping users send, track, and manage emails efficiently.  
 
 ---
